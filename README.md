@@ -1,6 +1,6 @@
 ### Hi!
 This program was written with python 3.6 and tests use Pytest (see requirements.txt).
-The main rpn function will be redesined soon.
+The main rpn function will be redesigned soon.
 ### Usage
 1) run script
 2) pass in an expression (operands and operators must be separated by spaces)
